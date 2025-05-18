@@ -1,0 +1,2 @@
+Toyota,Corolla,2018,1170000.0,Petrol,110000
+Honda,Civic,2018,1129000.0,Petrol,157000
